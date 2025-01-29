@@ -29,7 +29,7 @@
         <!-- @formatter:off -->
         <java.version>21</java.version>
         <kotest.version>5.9.1</kotest.version>
-        <kotlin.version>2.1.0-RC</kotlin.version>
+        <kotlin.version>2.1.20-Beta2</kotlin.version>
         <kotlinx-coroutines.version>1.9.0</kotlinx-coroutines.version>
         <ktlint-maven-plugin.version>3.3.0</ktlint-maven-plugin.version>
         <maven-wrapper-plugin.version>3.3.2</maven-wrapper-plugin.version>
